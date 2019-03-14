@@ -19,7 +19,7 @@ Set up for requirement packages
 
 Please refer to sample data for details of file format.
 
-#### Taxonomic abundance table (comma-delimited csv)
+#### Taxonomic abundance table (comma-separated)
 
 |  | ***Sample 1*** | ***Sample 2*** | ・・・ | ***Sample j*** |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|
@@ -30,7 +30,7 @@ Please refer to sample data for details of file format.
 
 Note: *X* is the number of counts for a species.
 
-#### Group label table (comma-delimited csv)
+#### Group label table (comma-separated)
 
 |***Group*** | ***Sample*** | 
 |:-----------:|:------------:|
