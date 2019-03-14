@@ -28,7 +28,7 @@ Please refer to sample data for details of file format.
 | **・** <br> **・**<br>**・**<br>|・<br>・<br>・<br>|・<br>・<br>・<br>|・&emsp;&emsp;<br>・<br>&emsp;&emsp;・<br>|・<br>・<br>・<br>|
 | ***Species i (or OTU i)*** |*X<sub>i1</sub>*|*X<sub>i2</sub>*|・・・|*X<sub>ij</sub>*|
 
-Note: *X* is the number of counts for a species
+Note: *X* is the number of counts for a species.
 
 #### Group label table (comma-delimited csv)
 
