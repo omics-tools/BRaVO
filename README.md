@@ -1,7 +1,5 @@
 BRaVO
 ====
-
-## Description
 Bacterial Relative Variation Outliers (BRaVO) detects features with differential taxonomic abundances, based on the relative variation index among samples.
 
 ## Prerequisites
