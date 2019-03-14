@@ -54,7 +54,7 @@ Note: Changing the header names of "Group" and "Sample" may cause a format error
 | **-g**       | Grouping label for sample (**required**) | comma-delimited table (see sample data) |
 | **-a**       | Alpha level at which to control false discoveries | default: 0.05 |
 | **-p**       | Prefix for an output file | default: Prefix of an input count table |
-| **-o**       | Output directory | default: The directory in the input file |
+| **-o**       | Output directory path | default: The directory in the input file |
 | **-v**       | show program's version number and exit  | |
 | **-h**       | show this help message and exit         | |
 
