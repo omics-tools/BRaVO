@@ -5,14 +5,15 @@ BRaVO
 Bacterial Relative Variation Outliers (BRaVO) detects features with differential taxonomic abundances, based on the relative variation index among samples.
 
 ## Prerequisites
-・numpy, scipy, pandas, scikit-bio, statsmodels
+Python packages: numpy, scipy, pandas, scikit-bio, statsmodels
 (Test enviroment: Python 2.7)
 
 ## Installation
-Set up for requirement packages
-`pip install numpy scipy pandas scikit-bio statsmodels`
-Clone this repository into your local machine
-`git clone https://github.com/omics-tools/BRaVO.git`
+Set up for requirement packages  
+`pip install numpy scipy pandas scikit-bio statsmodels`  
+  
+Clone this repository into your local machine  
+`git clone https://github.com/omics-tools/BRaVO.git`  
 
 ## Getting Started
 
