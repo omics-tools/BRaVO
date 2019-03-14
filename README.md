@@ -42,7 +42,7 @@ Note: *X* is the number of counts for a species.
 
 Note: Changing the header names of "Group" and "Sample" may cause a format error.
 
-**Usage**
+### Usage
 
 `python bravo.py -t count_table.txt -g group_label.txt [-a 0.05] [-p bravo_out] [-o <dirpath>]`
 
