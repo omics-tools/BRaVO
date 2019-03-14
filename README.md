@@ -13,7 +13,7 @@ Clone this repository into your local machine
 Set up for requirement packages  
 `pip install numpy scipy pandas scikit-bio statsmodels`  
 
-## Getting Started
+## Getting started
 
 ### Preparing input files
 
