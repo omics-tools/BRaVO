@@ -44,7 +44,7 @@ Note: Changing the header names of "Group" and "Sample" may cause a format error
 
 ### Usage
 
-`python bravo.py -t count_table.txt -g group_label.txt [-a 0.05] [-p bravo_out] [-o <dirpath>]`
+`python bravo.py -t count_table.txt -g group_label.txt [-a 0.05] [-p output_prefix] [-o <dirpath>]`
 
 **optional arguments:**
 
