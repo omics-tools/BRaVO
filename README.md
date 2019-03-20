@@ -17,8 +17,7 @@ Set up for requirement packages
 
 ### Preparing input files
 
-Please refer to [example data](https://github.com/omics-tools/BRaVO/examples
-) for details of file format.
+Please refer to [example data](https://github.com/omics-tools/BRaVO/tree/master/examples) for details of file format.
 
 #### Taxonomic abundance table (comma-separated)
 
